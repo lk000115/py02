@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b441c32d-7a6d-4c68-b007-5496daed1631" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="b441c32d-7a6d-4c68-b007-5496daed1631" name="更改" comment="sd">
+      <change afterPath="$PROJECT_DIR$/data_fx/j02.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -64,7 +64,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -110,8 +110,30 @@
       <updated>1761614297834</updated>
       <workItem from="1761614302601" duration="608000" />
       <workItem from="1761614980131" duration="995000" />
-      <workItem from="1761617048950" duration="275000" />
+      <workItem from="1761617048950" duration="1280000" />
+      <workItem from="1761618480840" duration="453000" />
+      <workItem from="1761618979256" duration="551000" />
+      <workItem from="1761619571669" duration="65000" />
+      <workItem from="1761619672434" duration="1279000" />
+      <workItem from="1761629369848" duration="5350000" />
     </task>
+    <task id="LOCAL-00001" summary="sd">
+      <option name="closed" value="true" />
+      <created>1761617367736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761617367736</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sd">
+      <option name="closed" value="true" />
+      <created>1761617384723</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761617384723</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +166,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sd" />
+    <option name="LAST_COMMIT_MESSAGE" value="sd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
