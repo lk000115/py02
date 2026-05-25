@@ -11,6 +11,7 @@
 conda create -n ac python=3.11
 激活基础conda虚拟环境 base
 conda activate
+conda deactivate   # 退出当前虚拟环境
 激活虚拟环境ac
 conda activate  ac
 
